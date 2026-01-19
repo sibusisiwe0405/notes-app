@@ -5,8 +5,8 @@ import React, { useState, useEffect } from 'react';
 import { Plus, Search } from 'lucide-react';
 
 
-// Main NotesApp Component
-export default function NotesApp() {
+
+export default function NotesApp() {  
   const [notes, setNotes] = useState([]);
   const [selectedNote, setSelectedNote] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sibusisiwe0405/notes-app/static/css/main.e6c13ad2.css",
+    "main.js": "/sibusisiwe0405/notes-app/static/js/main.7c275e28.js",
+    "static/js/453.f8ce13e5.chunk.js": "/sibusisiwe0405/notes-app/static/js/453.f8ce13e5.chunk.js",
+    "index.html": "/sibusisiwe0405/notes-app/index.html",
+    "main.e6c13ad2.css.map": "/sibusisiwe0405/notes-app/static/css/main.e6c13ad2.css.map",
+    "main.7c275e28.js.map": "/sibusisiwe0405/notes-app/static/js/main.7c275e28.js.map",
+    "453.f8ce13e5.chunk.js.map": "/sibusisiwe0405/notes-app/static/js/453.f8ce13e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7c275e28.js"
+  ]
+}
